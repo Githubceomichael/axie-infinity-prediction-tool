@@ -10,6 +10,6 @@ This python script tracks game rounds, opponent energy, cards on hand, cards on 
 - More
 
 ## Notes
-Please note that the Python scripts in this repository are intended for personal use and exploration. These scripts were created for experimental and educational purposes, and they might not adhere to professional coding standards.
+Please note that the Python script in this repository is intended for personal use and exploration. The script was created for experimental and educational purposes, and might not adhere to professional coding standards.
 
-The Python scripts in this repository were created in 2021 for specific purposes related to Axie Infinity gameplay. As of now, they are not actively maintained or used.
+The Python script in this repository was created in 2021 for specific purposes related to Axie Infinity gameplay. As of now, it is not actively maintained or used.
